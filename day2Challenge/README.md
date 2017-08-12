@@ -11,4 +11,7 @@
 
 ## music.html
 
+Note that the performer links are external urls. include:  target="_blank" in the anchor tag
+so that the performer link opens in a new window. [Here](https://www.w3schools.com/tags/att_a_target.asp) goes instructions on how to do that. 
+
 ![Music Page](images/music.png)
