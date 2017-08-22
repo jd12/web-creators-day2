@@ -2,7 +2,8 @@
 
 ## Mini Challenge 
 
-See if you can update your Trillium home page to look like the picture below: 
+See if you can update your Trillium home page to look like the picture below: <br>
+**Hint**: You will need an unordered list similar to the Trillium Contact Page and the JavaJam homepage
 ![Trillium With List](images/trilliumWithList.png)
 
 We are now going to use CSS (Cascading Style Sheets) to make our webpage more appealing. 
