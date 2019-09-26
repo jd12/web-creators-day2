@@ -8,7 +8,7 @@ See if you can update your Trillium home page to look like the picture below: <b
 
 We are now going to use CSS (Cascading Style Sheets) to make our webpage more appealing. 
 
-1. Rename `style.css` to `trillium.css` and delete all the text inside it. 
+1. Create a new file. Save it and name it `trillium.css`. 
 
 2. Add a link to your new `trillium.css` in your HTML files. This allows your HTML to "see" the CSS and apply the changes. 
 ![Link CSS](images/linkCSS.png)
@@ -60,4 +60,4 @@ I don't like the space between the header and the nav bar. Let's adjust the marg
 Your page should now look like this:
 ![Trillium Final](images/trilliumFinal.png)
 
-
+Great job! Move on to [Day 2 Challenge](../day2Challenge)
